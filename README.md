@@ -1,2 +1,2 @@
 # VBA-challenge
-Challenges 1 & 2 completed and incorported in tickercode_v6.bas file
+Base assignment plus challenges 1 & 2 completed and all incorported in tickercode_v6.bas file
